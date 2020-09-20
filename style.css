@@ -6,9 +6,15 @@ body {
     margin: 0;
 }
 
+.container {
+    margin: auto;
+}
+
+
 .section {
     background-color: #fff;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
+
 }
