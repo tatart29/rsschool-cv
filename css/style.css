@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', cursive;
+    font-size: 16px;
+    background-color: floralwhite;
+    padding: 10px;
+    margin: 0;
+}
+
+.container {
+    margin: auto;
+    width: 800px;
+}
+
+
+section {
+    border-bottom: 2px solid black;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+}
+
+.indent {
+    margin-bottom: 30px;
+}
+
+hr {
+    border: 1px solid gray;
+    width: 500px;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
