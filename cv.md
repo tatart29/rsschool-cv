@@ -38,7 +38,7 @@ Duties included:
 _I have no experience in development yet_  
 
 __Skills:__  
-SQL, Python, JavaScript Рё C# (basic syntax).  
+SQL, Python, JavaScript, C# (basic syntax).  
 
 __Code examples:__
 null  
