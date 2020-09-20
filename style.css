@@ -1,6 +1,6 @@
 body {
-    font-family: 'Time New Roman', cursive;
-    font-size: 13px;
+    font-family: 'Times New Roman', cursive;
+    font-size: 16px;
     background-color: floralwhite;
     padding: 10px;
     margin: 0;
@@ -8,13 +8,35 @@ body {
 
 .container {
     margin: auto;
+    width: 800px;
 }
 
 
-.section {
-    background-color: #fff;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-radius: 10px;
+section {
+    border-bottom: 2px solid black;
+    position: relative;
+}
 
+h1 {
+    text-align: center;
+}
+
+.indent {
+    margin-bottom: 30px;
+}
+
+hr {
+    border: 1px solid gray;
+    width: 500px;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    right: 0;
 }
