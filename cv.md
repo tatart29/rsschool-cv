@@ -17,6 +17,7 @@ __Work experience:__
 June 2012 - August 2013  
 JSC AC Fund, telemarketer  
 Duties included:  
+
 `+`maintenance and support of customer databases;  
 `+`making "cold calls" to clients, establishing initial contact;  
 `+`organizing presentations of the services provided, other advertising and information actions for clients.
@@ -24,6 +25,7 @@ Duties included:
 June 2014 - Until now  
 SK Soglasie LLC, database administrator (regulatory and reference department)  
 Duties included:  
+
 `+`Analysis, maintenance, formation and modification of data in reference books;  
 `+`Analysis of the causes of failures and violations in the operation of the reference data management system, development of proposals for their elimination and prevention;  
 `+`Monitoring of reference books for the relevance and correctness of data;  
